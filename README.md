@@ -36,8 +36,8 @@ Note:	It	is	good	to	check	your	files	and	see	how	the	files	are	divided	into	bloc
 3-Writing	MapReduce	Jobs [90	Points]
 You	will	write	Java	programs	to	query	the	data	in	Hadoop.	Before	writing	your	code	you	should	perfectly	
 understand	the	“WordCount”	example	in:
-http://hadoop.apache.org/common/docs/r0.17.0/mapred_tutorial.html
-		3
+http://hadoop.apache.org/common/docs/r0.17.0/mapred_tutorial.html3
+
 Notes:
 • You	 should	 decide whether	 each	 query	is	 a	map-only	 job	 or	 a	 map-reduce	 job,	 and	 write	 your	
 code	based	on	that. A	given	query	may	require	more	that	a	single	map-reduce	job	to	be	done.
